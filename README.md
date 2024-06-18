@@ -1,4 +1,4 @@
-![image](https://github.com/Diya-G-15/Utility-Website/assets/137169112/6bc24b7f-ab5c-4858-b901-2877075eb050)# Awesome Utility Website
+# Awesome Utility Website
 
 Welcome to the Awesome Utility Website repository! This project provides a suite of useful functionalities accessible via a web interface. 
 Here's a breakdown of what you can do with this tool:
